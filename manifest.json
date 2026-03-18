@@ -1,0 +1,8 @@
+{
+  "name": "安全键盘",
+  "short_name": "安全键盘",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000"
+}
